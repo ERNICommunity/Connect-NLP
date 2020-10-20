@@ -1,5 +1,7 @@
 # NLP tutorial from EDD3 2016
 
+:warning: **REPOSITORY NOT ACTIVE SINCE 2016 Dependabot alerts in git security settings disabled**
+
 The fastest way to get started is to install miniconda and the Jupyter notebook:
 
 1. Clone this repository
